@@ -1,4 +1,9 @@
 # trezor-translations-manager
+
+# Deprecated
+
+We've moved to monorepo [trezor-suite](https://github.com/trezor/trezor-suite). Please file all issues and Pull Requests there.
+
 [![npm version](https://badge.fury.io/js/trezor-translations-manager.svg)](https://badge.fury.io/js/trezor-translations-manager)
 
 CLI tool for synchronizing localization resources with Crowdin service.
